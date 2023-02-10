@@ -1,4 +1,4 @@
-https://github.com/PKUFlyingPig/cs-self-learning CS 自学指南
+https://github.com/PKUFlyingPig/cs-self-learning CS自学指南
 
 
 https://survivesjtu.gitbook.io/survivesjtumanual/ 上海交通大学生存手册
@@ -9,7 +9,7 @@ https://github.com/SurviveSJTU/SJTU-Application 上海交通大学飞跃手册
 https://sustech-application.com/#/ 南方科技大学飞跃手册
 
 
-https://github.com/PKUanonym/REKCARC-TSC-UHT清华大学计算机系课程攻略
+https://github.com/PKUanonym/REKCARC-TSC-UHT 清华大学计算机系课程攻略
 
 
 https://github.com/QSCTech/zju-icicles 浙江大学课程攻略共享计划
