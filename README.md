@@ -1,2 +1,2 @@
 # Educating-yourself
-个人思考与总结
+信息整合进行中
