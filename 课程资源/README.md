@@ -1,4 +1,4 @@
-## strategy
+## 整合性网站
 https://github.com/PKUFlyingPig/cs-self-learning CS自学指南
 
 https://survivesjtu.gitbook.io/survivesjtumanual/ 上海交通大学生存手册
@@ -6,6 +6,19 @@ https://survivesjtu.gitbook.io/survivesjtumanual/ 上海交通大学生存手册
 https://github.com/SurviveSJTU/SJTU-Application 上海交通大学飞跃手册
 
 https://sustech-application.com/#/ 南方科技大学飞跃手册
+
+## 课程资源
+
+https://github.com/PKUanonym/REKCARC-TSC-UHT 清华大学计算机系课程攻略
+
+https://github.com/QSCTech/zju-icicles 浙江大学课程攻略共享计划
+
+https://github.com/andream7/cuit_sharing 成都信息工程大学期末共享仓库
+
+https://github.com/oneman233/seu-master 东南大学研究生课程资料分享
+
+https://github.com/tianyilt/ecnu-PGCourseShare 华东师范大学研究生课程攻略共享
+
 ## 国外
 
 https://ocw.mit.edu/   MIT OpenCourseWare: 麻省理工学院的课程资源开放共享项目，收录了数以千计的各科课程资源，其中计算机类的课号是 6.xxx。
