@@ -36,7 +36,7 @@ Linux，全称GNU/Linux，是一种免费使用和自由传播的类UNIX操作�
 
 同时注意，如果你打开微软的文档，看到命令就直接运行 `wsl --install`，安装的发行版是Ubuntu（**执行命令前，认清自己在做什么**），如果你运行 `wsl --list --online` 来查看可用发行版，你大概率会得到一下信息：
 
-```
+```shell
 无法从“https://raw.githubusercontent.com/microsoft/WSL/master/distributions/DistributionInfo.json”中提取列表分发。无法解析服务器的名称或地址
 Error code: Wsl/WININET_E_NAME_NOT_RESOLVED
 ```
@@ -59,7 +59,7 @@ _**注意上文括号中的内容，始终注意锻炼自己处理问题的能�
 
 首先同步本地和网络上的仓库信息（运行以下命令）
 
-```
+```shell
 sudo apt update
 ```
 
@@ -83,7 +83,7 @@ sudo apt update
 
 可以通过[代理网站](https://poe.com/ChatGPT)免费使用ChatGPT和类似的AI（需要翻墙），每当看到不懂的命令都可以问AI（大胆询问，谨慎相信）
 
-```
+```shell
 sudo apt install neofetch
 ```
 
@@ -107,14 +107,14 @@ sudo apt install neofetch
 
 如果你要运行Python程序，只需运行
 
-```
+```shell
 sudo apt install python3
 python3
 ```
 
 如果要编译C程序，首先编写一个 Hello.c 源代码，然后运行
 
-```
+```shell
 sudo apt install gcc
 gcc Hello.c -o Hello
 ./Hello
@@ -124,7 +124,7 @@ gcc Hello.c -o Hello
 
 对于C++程序
 
-```
+```shell
 sudo apt install g++
 g++ Hello.cpp -o Hello
 ./Hello
@@ -138,7 +138,7 @@ g++ Hello.cpp -o Hello
 
 既然主机是Windows平台，微软的产品 VSCode 对WSL有很好的支持，在外面正常安装 VSCode 后，去插件管理页面安装叫 WSL 的插件，然后在 WSL 中创建并进入一个目录，然后运行：
 
-```
+```shell
 code .
 ```
 

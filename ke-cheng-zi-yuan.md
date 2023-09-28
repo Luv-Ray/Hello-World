@@ -43,3 +43,11 @@ layout:
 [UC Berkeley CS Course List](https://www2.eecs.berkeley.edu/Courses/CS/): UC Berkeley 的 CS 课程列表。
 
 [Stanford CS Course List](https://blog.csdn.net/qq\_41220023/article/details/81976967) : 斯坦福的 CS 课程列表。
+
+## 关于我
+
+[Github主页](https://github.com/Luv-Ray)
+
+[我的博客](https://luv-ray.github.io/)
+
+[转专业到计科相关](https://github.com/Luv-Ray/SZTU-Information)
